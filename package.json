@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "start": "tsx src/index.ts"
+  },
+  "dependencies": {
+    "@hono/node-server": "^1.1.0",
+    "hono": "^3.6.0"
+  },
+  "devDependencies": {
+    "tsx": "^3.12.2"
+  },
+  "name": "ytdl",
+  "description": "``` npm install npm run start ```",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}
